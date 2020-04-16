@@ -1,6 +1,6 @@
 # Introduction to exercises
 
-This repository conatins the exercises for the University of Copenhagen Population Genetics master course.
+This repository contains the exercises for the University of Copenhagen Population Genetics master course.
 
 ## Index
 
